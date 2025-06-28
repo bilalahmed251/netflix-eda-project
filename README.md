@@ -27,14 +27,9 @@ This project explores the Netflix Titles dataset using Python libraries such as 
 
 - [Netflix Titles Dataset (Kaggle)](https://www.kaggle.com)
 
-## 📊 Output Example
-
-![Barplot](images/barplot.png)  
-*(Add images by uploading in an "images" folder and linking them here)*
-
 ## 🔗 Connect with Me
 
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/your-username)
+- LinkedIn:(https://www.linkedin.com/in/bilal-ahmed-738a84290/)
 
 ---
 
